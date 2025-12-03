@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="TDS_CarPark.API/TDS_CarPark.API.csproj" />
+  <Project Path="TDS_CarPark.Tests/TDS_CarPark.Tests.csproj" Id="7893ea69-b9c4-4d15-b120-db465174c4f1" />
+</Solution>
